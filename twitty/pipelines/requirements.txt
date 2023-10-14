@@ -1,7 +1,7 @@
 contextualized_topic_models==2.5.0
 fastapi==0.103.2
 hdbscan==0.8.33
-langchain==0.0.305
+langchain==0.0.312
 matplotlib==3.7.1
 nltk==3.7
 numpy==1.24.2
