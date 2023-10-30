@@ -72,7 +72,7 @@ To get started with the TwitGenius Labs Twitter AI Assistant, please refer to th
 
 ## License
 
-This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
