@@ -3,7 +3,7 @@ a groundbreaking startup at the intersection of AI and social media
 - presentation [(https://www.canva.com/design/DAFylUCRJJI/DLUML-OUWR_g6XEXtfM1qA/view?utm_content=DAFylUCRJJI&utm_campaign=designshare&utm_medium=link&utm_source=editor])
 # TwitGenius Labs Twitter AI Assistant
 
-![download (1)](https://github.com/abdalrahmenyousifMohamed/TwitGenius/assets/73138953/484ac957-ffe9-4dec-b5d8-6557fc39c34f)
+![IMG_2359](https://github.com/abdalrahmenyousifMohamed/TwitGenius/assets/73138953/cbe283bb-c693-4ba1-8734-13caff4089e8)
 
 ## Introduction
 
